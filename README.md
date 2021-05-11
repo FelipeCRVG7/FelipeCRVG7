@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelipeCRVG7
-- 👀 I’m interested in learn about Programming anda Data Science
+- 👀 I’m interested in learn about Programming and Data Science
 - Hope someday work with programming.
 
 <!---
